@@ -1,1 +1,2 @@
 # odin-recipes
+This project is for the Odin Project website. I have made a website that has two recipes and the steps, ingredients, description, and image of the food. To make this project I demonstrated general knowledge of html, elements, and attributes.
